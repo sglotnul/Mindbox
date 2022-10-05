@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="Geometry">
-      <HintPath>..\ClassLibrary1\bin\Debug\net6.0\Geometry.dll</HintPath>
+    <Reference Include="GeometryLibrary">
+      <HintPath>..\GeometryLibrary\bin\Debug\net6.0\GeometryLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 

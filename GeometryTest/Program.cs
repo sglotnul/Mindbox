@@ -1,5 +1,6 @@
 ﻿using Geometry;
 using Geometry.Exceptions;
+using GeometryTest.Exceptions;
 
 Start();
 
